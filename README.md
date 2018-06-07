@@ -29,4 +29,4 @@ Ordered list
  
 <a href="http://example.com/" target="_blank">Hello, world!</a>
 
-<img src="Images/" width="200" height="200"/>
+<img src="DSC_0230" width="200" height="200"/>
